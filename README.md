@@ -2,4 +2,4 @@
 
 Hosted on https://joaquingimenez1.github.io
 
-Redirects to https://joaquingimenez.com/
+Redirects after 5 seconds to https://joaquingimenez.com/
